@@ -1,4 +1,4 @@
-# Deep Search — Multi-Agent Legal Research with Google ADK
+# Staram Legal Search — Multi-Agent Legal Research with Google ADK
 
 A multi-agent AI system for legal research, built on [Google's Agent Development Kit (ADK)](https://google.github.io/adk-docs/). It combines a Neo4j knowledge graph, Weaviate vector database, and multiple LLM providers to deliver structured legal opinions with citations.
 
