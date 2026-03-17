@@ -1,0 +1,10 @@
+google-adk>=1.10.0
+google-auth
+google-genai
+neo4j
+weaviate-client
+openai
+pydantic
+python-dotenv
+fastapi
+colorlog
